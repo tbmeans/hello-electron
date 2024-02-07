@@ -1,0 +1,29 @@
+{
+  "name": "hello-electron",
+  "version": "1.0.0",
+  "description": "general-purpose",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbmeans/hello-electron.git"
+  },
+  "keywords": [
+    "multi",
+    "general",
+    "text",
+    "edit"
+  ],
+  "author": "Timothy B. Means",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tbmeans/hello-electron/issues"
+  },
+  "homepage": "https://github.com/tbmeans/hello-electron#readme",
+  "devDependencies": {
+    "electron": "^28.2.1"
+  }
+}
